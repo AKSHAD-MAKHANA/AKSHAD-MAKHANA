@@ -11,7 +11,7 @@
 
 - 🌱 Learning Application Development Practice (ADP) **to build innovative and impactful applications alongside data science projects**
 
-- 🤝 Seeking guidance on **BUS LIVE LOCATION TRACKING APP(DTIL project) – open to mentorship and collaboration!**
+- 🤝 Seeking guidance on **BUS LIVE LOCATION TRACKING APP (DTIL project) – open to mentorship and collaboration!**
 
 - 📫 How to reach me **makhanaakshad07@gmail.com / akshadmakhana01@gmail.com**
 
